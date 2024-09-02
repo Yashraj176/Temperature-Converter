@@ -1,8 +1,8 @@
 # Temperature Converter
 Converts temperature (in C, F or K) to other units.
 
-### Live version: ###
-https://yashraj176.github.io/Temperature-Converter/
+### Deployment Live version: ###
+https://temperature-converter-rust.vercel.app/
 
 ### Created using: ###
 - HTML
